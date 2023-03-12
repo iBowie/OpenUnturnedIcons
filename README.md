@@ -2,13 +2,13 @@
 
 You can use them for your plugins or apps.
 
-Structure is going like this:
+For Vanilla assets:
 
-**Origin/Category/Guid.png**
+**Vanilla/Category/Guid.png**
 
-Origins:
-- Vanilla
-- Workshop
+For Workshop assets:
+
+**Workshop/ModId/Category/Guid.png**
 
 Categories:
 - Animals

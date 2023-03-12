@@ -17,3 +17,5 @@ Categories:
 - Objects
 - Trees
 - Vehicles
+
+Guid is written in N format (for C# users), or without hyphens.
